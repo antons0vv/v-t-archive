@@ -583,11 +583,11 @@ td {
     justify-self: start;
     align-self: start;
     margin: 1px 1px 0 1px;
-    z-index: 4;
 }
 
 #par1 {
     max-width: 850px;
+    z-index: 4;
 }
 
 #div_par_2 {
@@ -595,11 +595,11 @@ td {
     justify-self: start;
     align-self: start;
     margin: 1px 1px 0 1px;
-    z-index: 4;
 }
 
 #par2 {
     max-width: 850px;
+    z-index: 4;
 }
 
 #div_par_3 {
@@ -607,11 +607,11 @@ td {
     justify-self: start;
     align-self: start;
     margin: 1px 1px 0 1px;
-    z-index: 4;
 }
 
 #par3 {
     max-width: 850px;
+    z-index: 4;
 }
 
 .date {
